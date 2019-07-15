@@ -1,1 +1,1 @@
-# wp-drag-and-dropper
+# WP Drag and Dropper
